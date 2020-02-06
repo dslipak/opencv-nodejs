@@ -1,0 +1,17 @@
+{
+  "name": "opencv-nodejs",
+  "version": "0.1.1",
+  "description": "OpenCV module for Nodejs",
+  "homepage": "https://github.com/dslipak/opencv-nodejs.git",
+  "main": "index.js",
+  "private": true,
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/dslipak/opencv-nodejs.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dmitriy Slipak <dslipak@gmail.com>",
+  "license": "ISC"
+}
