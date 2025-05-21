@@ -16,6 +16,6 @@ exports.opencv = function (callback) {
 	        return callback(null, cv)
 	      }
 	    };
-	    global.cv = require('./opencv-4.2.0.min.js')
+	    global.cv = require('./opencv-4.11.0.js')
 	})
 }
